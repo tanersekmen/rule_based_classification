@@ -7,7 +7,7 @@
 Using the instructions of a game tutorial level-based (level-based) new customer definitions (persona) and these new customer definitions create segments according to these segments and create new how much on average to start wants to guess what he can earn.
 
 ## Dataset Information 📊
-Persona.cs dataset sells an international gaming rig prices and you can write for users who buy these products. The dataset may consist of records created in his sale transaction. The meaning is not tabulated. In other words, a user with a certain demographic
+Persona.csv dataset sells an international gaming rig prices and you can write for users who buy these products. The dataset may consist of records created in his sale transaction. The meaning is not tabulated. In other words, a user with a certain demographic
 
 ## Features 🏹
 persona.csv
